@@ -1,0 +1,6 @@
+[submodule "jhipster-registry"]
+	path = jhipster-registry
+	url = https://github.com/jhipster/jhipster-registry
+[submodule "Dirty-John-Gateway"]
+	path = Dirty-John-Gateway
+	url = https://github.com/DowanBeer/Dirty-John-Gateway.git
